@@ -1,4 +1,4 @@
-# Module 5: Deployments and ReplicaSets
+# Deployments and ReplicaSets
 
 This module documents six hands-on Kubernetes labs covering Deployment lifecycle management, rollouts and rollbacks, resource governance, labels and selectors, ReplicaSet behaviour, and deployment strategies.
 
